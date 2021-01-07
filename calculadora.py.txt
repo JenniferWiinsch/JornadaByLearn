@@ -1,0 +1,8 @@
+primeiro_numero = float(input('digite o primeiro numero'))
+segundo_numero = float(input('digite o segundo numero'))
+
+#operações matematicas
+soma = primeiro_numero + segundo_numero
+subtração = primeiro_numero - segundo_numero
+multiplicacao = primeiro_numero * segundo_numero
+divisao = primeiro_numero / segundo_numero
